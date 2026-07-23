@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const API_BASE_URL = 'https://informed-lowest-voices-ended.trycloudflare.com/api/v1';
+const API_BASE_URL = 'https://sword-aircraft-obtaining-schools.trycloudflare.com/api/v1';
 
 const api = axios.create({
   baseURL: API_BASE_URL,
